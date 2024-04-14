@@ -1,0 +1,1 @@
+import{j as s}from"./index-CO1LhOMl.js";const a=({className:r})=>s.jsxs("div",{onClick:()=>window.history.back(),className:r||"arrow-btn",children:[s.jsx("img",{src:"/arrow.svg",alt:"",height:18,width:18,className:"rotate-180"}),"back"]});export{a as B};

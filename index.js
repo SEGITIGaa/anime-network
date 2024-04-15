@@ -10,7 +10,6 @@ const files = [
     "Episode-Dkp8Wd53",
     "Episodes-cT83Rxiw",
     "Home-C2J2WVIm",
-    "index-CfmloJ6P",
     "index-CO1LhOMI",
     "Layout-B1EvdRiN",
     "OngoingAnimes-yo-obrLa",
